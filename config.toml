@@ -1,6 +1,6 @@
-baseURL = "/"
+baseURL = "https://dark-lord.netlify.com/"
 languageCode = "en-us"
-title = "PT Kuro-kuro"
+title = "PT GDTeknologi"
 # themesDir = "../.."
 theme = "hugo-serif-theme"
 
